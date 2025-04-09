@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola, soy Agustín Fuenzalida! 👋
 
-<!--
-**Fuenzalidaagu/Fuenzalidaagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mí
+Soy un apasionado del mundo de la tecnología y la programación. Siempre estoy en busca de nuevos desafíos y oportunidades para aprender y compartir conocimientos. Me encanta explorar nuevas herramientas y colaborar en proyectos que impacten positivamente en la comunidad.
 
-Here are some ideas to get you started:
+## Mis Intereses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Desarrollo Web y Backend:**  
+  Me interesa crear soluciones escalables y eficientes utilizando tecnologías modernas.
+  
+- **Inteligencia Artificial y Machine Learning:**  
+  Siempre estoy investigando cómo la IA y el aprendizaje automático pueden transformar procesos y resolver problemas complejos.
+  
+- **Innovación y Nuevas Tecnologías:**  
+  Me gusta estar al tanto de las últimas tendencias tecnológicas, desde nuevos lenguajes de programación hasta desarrollos en hardware y software.
+
+## Contacto
+Puedes conectarte conmigo a través de:
+
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/agustin-fuenzalida/)
+- Correo electrónico: [fuenzalidaagustin13@gmail.com](mailto:fuenzalidaagustin13@gmail.com)
+
+---
+
+¡Gracias por visitar mi perfil!
